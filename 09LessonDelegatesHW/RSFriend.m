@@ -15,7 +15,7 @@
     NSLog(@"%@ youll be ok", patient.name);
     
     patient.satisfiedWithTheDoctor = YES;
-    //
+    // connected ti git
     
     
     
